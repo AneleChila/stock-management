@@ -1,0 +1,16 @@
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/service/ItemService.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/model/Category.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/model/BaseEntity.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/model/ItemSize.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/StockManagementApplication.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/repository/ItemRepository.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/controller/HomeController.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/repository/CategoryRepository.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/model/NamedEntity.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/repository/AisleRepository.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/service/ItemServiceImpl.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/model/Aisle.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/model/Item.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/service/CategoryService.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/service/AisleService.java
+/Users/anelechila/Projects/BackEnd/ANELE_CHILA_PERSONAL/stock-management/inventory-management/src/main/java/com/doostep/stockmanagement/service/CrudService.java

@@ -1,0 +1,16 @@
+com/doostep/stockmanagement/service/CrudService.class
+com/doostep/stockmanagement/repository/ItemRepository.class
+com/doostep/stockmanagement/model/ItemSize.class
+com/doostep/stockmanagement/repository/AisleRepository.class
+com/doostep/stockmanagement/model/BaseEntity.class
+com/doostep/stockmanagement/model/Aisle.class
+com/doostep/stockmanagement/model/Category.class
+com/doostep/stockmanagement/StockManagementApplication.class
+com/doostep/stockmanagement/service/ItemServiceImpl.class
+com/doostep/stockmanagement/model/NamedEntity.class
+com/doostep/stockmanagement/model/Item.class
+com/doostep/stockmanagement/service/ItemService.class
+com/doostep/stockmanagement/service/AisleService.class
+com/doostep/stockmanagement/service/CategoryService.class
+com/doostep/stockmanagement/repository/CategoryRepository.class
+com/doostep/stockmanagement/controller/HomeController.class
