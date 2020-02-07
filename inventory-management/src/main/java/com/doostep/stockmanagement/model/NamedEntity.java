@@ -15,8 +15,6 @@
  */
 package com.doostep.stockmanagement.model;
 
-import org.hibernate.validator.constraints.NotEmpty;
-
 import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;
 import javax.validation.constraints.Pattern;
@@ -25,7 +23,6 @@ import javax.validation.constraints.Pattern;
 public class NamedEntity extends BaseEntity {
 
     @Column(name = "name")
-    @NotEmpty
     @Pattern(regexp = "[a-z-A-Z]*", message = "Name has invalid characters")
     private String name;
 

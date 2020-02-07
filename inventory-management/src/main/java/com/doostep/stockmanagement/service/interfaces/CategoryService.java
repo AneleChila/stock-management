@@ -1,4 +1,4 @@
-package com.doostep.stockmanagement.service;
+package com.doostep.stockmanagement.service.interfaces;
 
 import com.doostep.stockmanagement.model.Category;
 

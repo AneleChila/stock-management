@@ -1,8 +1,9 @@
-package com.doostep.stockmanagement.service;
+package com.doostep.stockmanagement.service.implementations;
 
 import com.doostep.stockmanagement.model.Item;
-import com.doostep.stockmanagement.repository.ItemRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.doostep.stockmanagement.repository.interfaces.ItemRepository;
+import com.doostep.stockmanagement.response.ResponseCodeTracker;
+import com.doostep.stockmanagement.service.interfaces.ItemService;
 import org.springframework.stereotype.Service;
 
 import java.util.Set;
@@ -17,7 +18,6 @@ public class ItemServiceImpl implements ItemService {
     }
 
     public Item save(Item item) {
-
        return itemRepository.save(item);
     }
 

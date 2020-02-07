@@ -1,9 +1,7 @@
-package com.doostep.stockmanagement.repository;
+package com.doostep.stockmanagement.repository.interfaces;
 
 import com.doostep.stockmanagement.model.Item;
-import com.doostep.stockmanagement.service.CrudService;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.repository.Repository;
 import org.springframework.stereotype.Service;
 
 @Service

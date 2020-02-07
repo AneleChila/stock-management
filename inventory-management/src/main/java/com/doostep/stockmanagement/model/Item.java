@@ -1,24 +1,23 @@
 package com.doostep.stockmanagement.model;
 
 import lombok.Data;
-import org.hibernate.validator.constraints.NotEmpty;
 
 import javax.persistence.*;
+import java.lang.reflect.Field;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 @Entity
 @Table(name = "items")
 @Data
 public class Item extends NamedEntity {
 
-    @NotEmpty
     @Column(name = "price")
     private double price;
 
-    @NotEmpty
     @Column(name = "description")
     private String description;
 
-    @NotEmpty
     @Column(name = "sku")
     private String sku;
 
